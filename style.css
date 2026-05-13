@@ -79,3 +79,9 @@
       left: 80%;
     }
   }
+
+.active-pad {
+  transform: scale(0.96);
+  opacity: 0.8;
+  transition: 0.15s ease;
+}
